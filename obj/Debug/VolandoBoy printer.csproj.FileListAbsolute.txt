@@ -1,0 +1,17 @@
+C:\Users\melva\Source\Repos\VolandoBoy printer\bin\Debug\VolandoBoy printer.exe.config
+C:\Users\melva\Source\Repos\VolandoBoy printer\bin\Debug\VolandoBoy printer.exe
+C:\Users\melva\Source\Repos\VolandoBoy printer\bin\Debug\VolandoBoy printer.pdb
+C:\Users\melva\Source\Repos\VolandoBoy printer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\melva\Source\Repos\VolandoBoy printer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\melva\Source\Repos\VolandoBoy printer\obj\Debug\VolandoBoy_printer.Form_main.resources
+C:\Users\melva\Source\Repos\VolandoBoy printer\obj\Debug\VolandoBoy_printer.Properties.Resources.resources
+C:\Users\melva\Source\Repos\VolandoBoy printer\obj\Debug\VolandoBoy printer.csproj.GenerateResource.cache
+C:\Users\melva\Source\Repos\VolandoBoy printer\obj\Debug\VolandoBoy printer.csproj.CoreCompileInputs.cache
+C:\Users\melva\Source\Repos\VolandoBoy printer\obj\Debug\VolandoBoy printer.csproj.CopyComplete
+C:\Users\melva\Source\Repos\VolandoBoy printer\obj\Debug\VolandoBoy printer.exe
+C:\Users\melva\Source\Repos\VolandoBoy printer\obj\Debug\VolandoBoy printer.pdb
+C:\Users\melva\Source\Repos\VolandoBoy printer\obj\Debug\VolandoBoy printer.csprojAssemblyReference.cache
+C:\Users\melva\Source\Repos\VolandoBoy printer\bin\Debug\VolandoBoy printer.exe.manifest
+C:\Users\melva\Source\Repos\VolandoBoy printer\bin\Debug\VolandoBoy printer.application
+C:\Users\melva\Source\Repos\VolandoBoy printer\obj\Debug\VolandoBoy printer.exe.manifest
+C:\Users\melva\Source\Repos\VolandoBoy printer\obj\Debug\VolandoBoy printer.application

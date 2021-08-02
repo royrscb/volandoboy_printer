@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolandoBoy printer", "VolandoBoy printer.csproj", "{CC9C597B-2932-4EA9-8C99-1C50FBD126A4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VolandoBoy printer setup", "..\VolandoBoy printer setup\VolandoBoy printer setup.vdproj", "{4C8EBAB2-BFEC-4257-B6DB-DC2755EE3DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC9C597B-2932-4EA9-8C99-1C50FBD126A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9C597B-2932-4EA9-8C99-1C50FBD126A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9C597B-2932-4EA9-8C99-1C50FBD126A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9C597B-2932-4EA9-8C99-1C50FBD126A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8EBAB2-BFEC-4257-B6DB-DC2755EE3DBC}.Debug|Any CPU.ActiveCfg = Debug
+		{4C8EBAB2-BFEC-4257-B6DB-DC2755EE3DBC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37343D62-BF90-480C-9F1F-8D900A98142F}
+	EndGlobalSection
+EndGlobal
